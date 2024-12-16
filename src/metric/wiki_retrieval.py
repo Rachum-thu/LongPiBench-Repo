@@ -1,5 +1,4 @@
 from .base import NLGMetric
-from bert_score import score
 from typing import List
 
 
